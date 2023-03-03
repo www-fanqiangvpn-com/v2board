@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'v2b-fanqiangvpn'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A409E9B806F4C37B457A290679C7A72 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F39964E7E254C5D8937308ADAE72FF3 }}
           package: .
